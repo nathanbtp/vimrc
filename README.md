@@ -7,7 +7,7 @@
                  ╚═══╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝
                
 
-# run the following: 
+# run the following in vim: 
 # :source ~/.vimrc
 # :PlugInstall
 # use F3 for nerdTree
