@@ -99,6 +99,9 @@ set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx
 
 "zM to close all folds.
 
+" nerdTree show Hidden
+let NERDTreeShowHidden=1
+
 " PLUGINS ---------------------------------------------------------------- {{{
 " Install plugins by adding to the list below then running :PlugInstall
 " Plugin code goes here.

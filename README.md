@@ -10,5 +10,6 @@
 # run the following: 
 # :source ~/.vimrc
 # :PlugInstall
+# use F3 for nerdTree
 
-# vimrc
+# if colors seem off use :colorscheme default to use your terminal (might be overriding vim)
