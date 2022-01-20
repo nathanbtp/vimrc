@@ -8,8 +8,7 @@
 "                 ╚═══╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝
 "               
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""               
-" colorscheme uwu
-colorscheme uwu
+"colorscheme uwu
 "colorscheme molokai
 "colorscheme default
 
@@ -99,7 +98,7 @@ set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx
 
 "zM to close all folds.
 
-" nerdTree show Hidden
+"nerdTree show hidden files
 let NERDTreeShowHidden=1
 
 " PLUGINS ---------------------------------------------------------------- {{{
